@@ -1,0 +1,16 @@
+{
+  "name": "clases",
+  "version": "1.0.0",
+  "description": "clases de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lehvui gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodeunit": "^0.9.1",
+    "sinon": "^1.17.3"
+  }
+}
