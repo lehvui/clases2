@@ -2,7 +2,7 @@ function handle_GET_request(response){
 	response.writeHead(200,{
 		"Content-type" : "text/plain"
 	});
-	response.end("se ha solicitado request Get");
+	response.end("Se ha solicitado request Get");
 }
 
 function handle_POST_request(response){
